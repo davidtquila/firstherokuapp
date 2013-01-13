@@ -1,0 +1,9 @@
+Script started on Sun Jan 13 22:40:33 2013
+[?1034hbash-3.2$ script/server
+bash: script/server: No such file or directory
+bash-3.2$ v[Kclear]
+bash: clear]: command not found
+bash-3.2$ clear][K
+[H[2Jbash-3.2$ script/server
+bash: script/server: No such file or directory
+bash-3.2$ 
